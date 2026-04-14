@@ -6,15 +6,25 @@
 
 ---
 
+## 레포지토리
+
+| 레포 | 설명 |
+|:----:|------|
+| [OnjeomFE](https://github.com/OnjeomAI/OnjeomFE) | 프론트엔드 |
+| [OnjeomBE](https://github.com/OnjeomAI/OnjeomBE) | 백엔드 |
+| [OnjeomAI](https://github.com/OnjeomAI/OnjeomAI) | 인공지능 |
+
+---
+
 ## 팀 멤버
 
 <div align="center">
- 
-| <img src="https://github.com/FAITRUEE.png" width="80" style="border-radius:50%"/> | <img src="https://github.com/ryu2293.png" width="80" style="border-radius:50%"/> | <img src="https://github.com/rYuha5.png" width="80" style="border-radius:50%"/> | <img src="https://github.com/jeonminsu-web.png" width="80" style="border-radius:50%"/> | <img src="https://github.com/dnwn0311.png" width="80" style="border-radius:50%"/> |
+
+| <img src="https://github.com/FAITRUEE.png" width="80"/> | <img src="https://github.com/ryu2293.png" width="80"/> | <img src="https://github.com/rYuha5.png" width="80"/> | <img src="https://github.com/jeonminsu-web.png" width="80"/> | <img src="https://github.com/dnwn0311.png" width="80"/> |
 |:---:|:---:|:---:|:---:|:---:|
 | **이성진** | **류승래** | **김상우** | **전민수** | **김우주** |
 | [@FAITRUEE](https://github.com/FAITRUEE) | [@ryu2293](https://github.com/ryu2293) | [@rYuha5](https://github.com/rYuha5) | [@jeonminsu-web](https://github.com/jeonminsu-web) | [@dnwn0311](https://github.com/dnwn0311) |
- 
+
 </div>
 
 ---
